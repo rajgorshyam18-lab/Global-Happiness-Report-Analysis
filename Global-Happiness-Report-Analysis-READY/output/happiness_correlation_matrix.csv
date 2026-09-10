@@ -1,0 +1,5 @@
+,Explained by: Log GDP per capita,Explained by: Social support,Explained by: Healthy life expectancy,Life evaluation (3-year average)
+Explained by: Log GDP per capita,1.0,0.7097615887608534,0.7471306161893931,0.7632687445056482
+Explained by: Social support,0.7097615887608534,1.0,0.594702898294465,0.8121224204916776
+Explained by: Healthy life expectancy,0.7471306161893931,0.594702898294465,1.0,0.7118538585288465
+Life evaluation (3-year average),0.7632687445056482,0.8121224204916776,0.7118538585288465,1.0
